@@ -14,7 +14,11 @@ The results of the analysis show that month three is the coldest month with an a
 
 
 ## Acknowledgements
+
 Othmane Benyoucef - Instructor for Tulsa Community College Data Analytics Accelerated Training Program
+
 Isabella Taylor - TA
+
 Jacob Peroutek - TA
+
 <a href="https://pandas.pydata.org/docs/user_guide/index.html#user-guide" target="_blank">Pandas documentation</a>
